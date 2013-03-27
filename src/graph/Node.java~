@@ -1,0 +1,40 @@
+package graph;
+
+import flickr.Photo;
+
+/**
+ * @author krmckelv, Karissa McKelvey
+ * @author fmackey, Frank Mackey
+ * @author ppitzer, Phil Pitzer
+ */
+public class Node {
+
+	private Photo photo;
+	
+	public Node(Photo p) {
+		setPhoto(p);
+	}
+
+	/** Sets the photo to the given photo
+	 * @param photo the photo to set
+	 */
+	public void setPhoto(Photo photo) {
+		this.photo = photo;
+	}
+
+	/** Returns the photo for this Walkr
+	 * @return the photo
+	 */
+	public Photo getPhoto() {
+		return photo;
+	}
+	
+	public Double getRange(Node n) {
+		Photo that = n.getPhoto();
+		return this.photo.getRange(that);
+	}
+	
+	public String getName() {
+		return photo.getNodeName();
+	}
+}

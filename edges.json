@@ -1,0 +1,808 @@
+{
+    "edges": [
+        {
+            "toward": [
+                "AS",
+                "AM",
+                "MV"
+            ],
+            "from": "MS" 
+        },
+        {
+            "toward": [
+                "AM",
+                "BQ",
+                "MV"
+            ],
+            "from": "AS" 
+        },
+        {
+            "toward": [
+                "BQ",
+                "MN",
+                "AS"
+            ],
+            "from": "AM" 
+        },
+        {
+            "toward": [
+                "AS",
+                "MS" 
+            ],
+            "from": "MV" 
+        },
+        {
+            "toward": [
+                "AM",
+                "MN" 
+            ],
+            "from": "BQ" 
+        },
+        {
+            "toward": [
+                "GR",
+                "GH",
+                "BQ"
+            ],
+            "from": "MN" 
+        },
+        {
+            "toward": [
+                "GR",
+                "MN" 
+            ],
+            "from": "GH" 
+        },
+        {
+            "toward": [
+                "HL",
+                "HC",
+                "PV",
+                "BU",
+                "MN"
+            ],
+            "from": "GR" 
+        },
+        {
+            "toward": [
+                "HC",
+                "PV" 
+            ],
+            "from": "HL" 
+        },
+        {        
+            "toward": [
+                "BU",
+                "LI" 
+            ],
+            "from": "PV" 
+        },
+        {        
+            "toward": [
+                "BU",
+                "LI" 
+            ],
+            "from": "PV" 
+        },
+        {
+            "toward": [
+                "PV",
+                "161C",
+                "GR",
+                "LI",
+                "PY"
+            ],
+            "from": "BU" 
+        },
+        {
+            "toward": [
+                "WT",
+                "TH",
+                "BU",
+                "WH",
+                "TV"
+            ],
+            "from": "LI" 
+        },
+        {
+            "toward": [
+                "BU",
+                "TV",
+                "PY" 
+            ],
+            "from": "161C" 
+        },
+        {
+            "toward": [
+                "AD",
+                "FV",
+                "FA",
+                "LI",
+                "LL",
+                "WH"
+            ],
+            "from": "TV" 
+        },
+        { 
+        	"toward": [
+        		"UB",
+        		"LI",
+        		"BH",
+        		"FA",
+        		"AD"
+        	],
+        	"from" : "WH"
+        },
+        {
+            "toward": [
+                "GY",
+                "161C" 
+            ],
+            "from": "PY" 
+        },
+        {
+            "toward": [
+                "GH",
+                "GREENE",
+                "I2",
+                "PY" 
+            ],
+            "from": "GY" 
+        },
+           {
+            "toward": [
+                "GH",
+                "GREENE",
+                "I2" 
+            ],
+            "from": "GH" 
+        },
+        {
+            "toward": [
+                "I2",
+                "GH",
+                "I" 
+            ],
+            "from": "GREENE" 
+        },
+        {
+            "toward": [
+                "GREENE",
+                "I",
+                "GY" 
+            ],
+            "from": "I2" 
+        },
+        {
+            "toward": [
+                "I2",
+                "GREENE",
+                "CLLC" 
+            ],
+            "from": "I" 
+        },
+        {
+            "toward": [
+                "HU",
+                "EP",
+                "UB",
+                "CB",
+                "I2"
+            ],
+            "from": "I" 
+        },
+        {
+            "toward": [
+                "HU",
+                "EP",
+                "UB",
+                "I",
+            ],
+            "from": "CB" 
+        },
+        {
+            "toward": [
+                "I",
+                "EP",
+                "UB"
+            ],
+            "from": "HU" 
+        },
+        {
+            "toward": [
+                "HU",
+                "EP",
+                "UB",
+                "OW",
+                "MX",
+                "SB" 
+            ],
+            "from": "STARBUCKS" 
+        },
+        {
+            "toward": [
+                "UB",
+                "SB",
+                "OW" 
+            ],
+            "from": "MX" 
+        },
+        {
+            "toward": [
+                "MX",
+                "OW",
+                "BECK",
+                "HP",
+                "WH" 
+            ],
+            "from": "UB" 
+        },
+        {
+            "toward": [
+                "WH",
+                "JH",
+                "SI",
+                "CH",
+                "BRYANHOUSE",
+                "BY",
+                "GB",
+                "MO" 
+            ],
+            "from": "BH" 
+        },
+        {
+            "toward": [
+                "WH",
+                "JH",
+                "SI",
+                "CH",
+                "BRYANHOUSE",
+                "BH",
+                "GB",
+                "MO" 
+            ],
+            "from": "BY" 
+        },
+        {
+            "toward": [
+                "MO",
+                "MM",
+                "JH" 
+            ],
+            "from": "GB" 
+        },
+        {
+            "toward": [
+                "GB",
+                "MM",
+                "SY",
+                "BH"
+            ],
+            "from": "MO" 
+        },
+        {
+            "toward": [
+                "MM",
+                "MA" 
+            ],
+            "from": "SY" 
+        },
+        {
+            "toward": [
+                "MA",
+                "MAC",
+                "MU" 
+            ],
+            "from": "SY" 
+        },
+        {
+            "toward": [
+                "MAC",
+                "M",
+                "MU",
+                "SY" 
+            ],
+            "from": "MA" 
+        },
+        {
+            "toward": [
+                "MAC",
+                "MA",
+                "MU",
+                "SG" 
+            ],
+            "from": "M" 
+        },
+        {
+            "toward": [
+                "MA",
+                "M",
+                "SG",
+                "MC" 
+            ],
+            "from": "MAC" 
+        },
+        {
+            "toward": [
+                "M",
+                "MC",
+                "UW" 
+            ],
+            "from": "SG" 
+        },
+        {
+            "toward": [
+                "UW",
+                "TH",
+                "OA",
+                "MC",
+            ],
+            "from": "RE" 
+        },
+        {
+            "toward": [
+                "MA",
+                "BY",
+                "M",
+                "RE",
+            ],
+            "from": "MC" 
+        },
+        {
+            "toward": [
+                "MY" 
+            ],
+            "from": "SUBWAY" 
+        },
+        {
+            "toward": [
+                "ROGERSST" 
+            ],
+            "from": "4THST" 
+        },
+        {
+            "toward": [
+                "COLLEGEAVE" 
+            ],
+            "from": "ROGERSST" 
+        },
+        {
+            "toward": [
+                "ROGERSST" 
+            ],
+            "from": "COLLEGEAVE" 
+        },
+        {
+            "toward": [
+                "4THST" 
+            ],
+            "from": "ROGERSST" 
+        },
+        {
+            "toward": [
+                "SWALNUTST" 
+            ],
+            "from": "SWASHINGTONST" 
+        },
+        {
+            "toward": [
+                "SWASHINGTONST" 
+            ],
+            "from": "SWALNUTST" 
+        },
+        {
+            "toward": [
+                "COLLEGEAVE" 
+            ],
+            "from": "SWALNUTST" 
+        },
+        {
+            "toward": [
+                "SWALNUTST" 
+            ],
+            "from": "COLLEGEAVE" 
+        },
+        {
+            "toward": [
+                "PO" ,
+                "FF"
+            ],
+            "from": "C3" 
+        },
+        {
+            "toward": [
+                "C3", 
+                "SWASHINGTONST",
+              	"FF",
+              	"SAMPLE"
+            ],
+            "from": "PO" 
+        },
+        {
+            "toward": [
+                "PO",
+                "C3" 
+            ],
+            "from": "SWASHINGTONST" 
+        },
+        {
+            "toward": [
+                "SWASHINGTONST" 
+            ],
+            "from": "C3" 
+        },
+        {
+            "toward": [
+                "SAMPLE" 
+            ],
+            "from": "C3" 
+        },
+        {
+            "toward": [
+                "C3",
+                "OB",
+                "FF" 
+            ],
+            "from": "SAMPLE" 
+        },
+        {
+            "toward": [
+                "SAMPLE",
+                "LW",
+                "SB" 
+            ],
+            "from": "FF" 
+        },
+        {
+            "toward": [
+                "FF",
+                "SAMPLE",
+                "OB",
+                "MX"
+            ],
+            "from": "SB" 
+        },
+        {
+            "toward": [
+                "OB",
+                "SW",
+                "SAMPLE",
+                "C3" 
+            ],
+            "from": "LW" 
+        },
+        {
+            "toward": [
+                "LW",
+                "SE" 
+            ],
+            "from": "SW" 
+        },
+        {
+            "toward": [
+                "SW",
+                "RH",
+                "LH" 
+            ],
+            "from": "SE" 
+        },
+        {
+            "toward": [
+                "SE",
+                "LH",
+                "LHBACK",
+                "MY" 
+            ],
+            "from": "RH" 
+        },
+        {
+            "toward": [
+                "SI",
+                "JH",
+                "LHBACK" 
+            ],
+            "from": "MY" 
+        },
+        {
+            "toward": [
+                "LH",
+                "SI" 
+            ],
+            "from": "LHBACK" 
+        },
+        {
+            "toward": [
+                "LHBACK",
+                "KH",
+                "SI",
+                "WY",
+                "BH",
+                "BECK" 
+            ],
+            "from": "CH" 
+        },
+        {
+            "toward": [
+                "WY",
+                "CH",
+                "LHBACK",
+                "LH" 
+            ],
+            "from": "KH" 
+        },
+        {
+            "toward": [
+                "LHBACK",
+                "KH",
+                "SE",
+                "FF",
+                "RH" 
+            ],
+            "from": "LH" 
+        },
+        {
+            "toward": [
+                "LH" 
+            ],
+            "from": "FF" 
+        },
+        {
+            "toward": [
+                "WY",
+                "MX",
+                "STARBUCKS",
+                "UB" 
+            ],
+            "from": "OW" 
+        },
+        {
+            "toward": [
+                "OW",
+                "MX",
+                "WY" 
+            ],
+            "from": "UB" 
+        },
+        {
+            "toward": [
+                "CH" 
+            ],
+            "from": "KH" 
+        },
+        {
+            "toward": [
+                "SI" 
+            ],
+            "from": "CH" 
+        },
+        {
+            "toward": [
+                "CH" 
+            ],
+            "from": "SI" 
+        },
+        {
+            "toward": [
+                "RH",
+                "JH" ,
+                "SI" 
+            ],
+            "from": "MY" 
+        },
+        {
+            "toward": [
+                "MY",
+                "SI",
+                "GB" 
+            ],
+            "from": "JH" 
+        },
+        {
+            "toward": [
+                "JH",
+                "GB",
+                "GB",
+                "SY",
+                "MU" 
+            ],
+            "from": "MM" 
+        },
+        {
+            "toward": [
+                "MM",
+                "SY",
+                "MA",
+                "M" 
+            ],
+            "from": "MU" 
+        },
+        {
+            "toward": [
+                "MA",
+                "MU",
+                "SG" 
+            ],
+            "from": "M" 
+        },
+        {
+            "toward": [
+                "RE",
+                "SG",
+                "M" 
+            ],
+            "from": "UW" 
+        },
+        {
+            "toward": [
+                "UW",
+                "TH",
+                "OA" 
+            ],
+            "from": "RE" 
+        },
+        {
+            "toward": [
+                "HL",
+                "OA" 
+            ],
+            "from": "HC" 
+        },
+        {
+            "toward": [
+                "UW",
+                "TH" 
+            ],
+            "from": "SG" 
+        },
+        {
+            "toward": [
+                "UW",
+                "UE",
+                "ED",
+                "TH" 
+            ],
+            "from": "RE" 
+        },
+        {
+            "toward": [
+                "RE",
+                "FR",
+                "WI",
+                "G3",
+                "TE",
+                "WT",
+                "OA" 
+            ],
+            "from": "ED" 
+        },
+        {
+            "toward": [
+                "ED",
+                "FR",
+                "G3" 
+            ],
+            "from": "WI" 
+        },
+        {
+            "toward": [
+                "WI",
+                "TE",
+                "EG" 
+            ],
+            "from": "G3" 
+        },
+        {
+            "toward": [
+                "TE" 
+            ],
+            "from": "EG" 
+        },
+        {
+            "toward": [
+                "TE",
+                "HL",
+                "HC",
+                "WT" 
+            ],
+            "from": "RB" 
+        },
+        {
+            "toward": [
+                "WT",
+                "HC",
+                "EG",
+                "G3",
+                "ED" 
+            ],
+            "from": "TE" 
+        },
+        {
+            "toward": [
+                "HC",
+                "RB",
+                "PV" 
+            ],
+            "from": "HL" 
+        },
+        {
+            "toward": [
+                "HL",
+                "LI",
+                "WT",
+                "TE",
+                "RB",
+                "OA" 
+            ],
+            "from": "HC" 
+        },
+        {
+            "toward": [
+                "OA",
+                "RE",
+                "UW" 
+            ],
+            "from": "TH" 
+        },
+        {
+            "toward": [
+                "TH" 
+            ],
+            "from": "RE" 
+        },
+        {
+            "toward": [
+                "WH",
+                "EP",
+                "FV" 
+            ],
+            "from": "HP" 
+        },
+        {
+            "toward": [
+                "WH",
+                "LL",
+                "HP",
+                "FA",
+                 
+            ],
+            "from": "FV" 
+        },
+        {
+            "toward": [
+                "WH",
+                "FV",
+                "FA",
+                 
+            ],
+            "from": "LL" 
+        },
+        {
+            "toward": [
+                "C3",
+                "LW",
+                "FF",
+                "LH",
+                "OW"
+              
+            ],
+            "from": "OB" 
+        },
+        {
+            "toward": [
+                "UB" 
+            ],
+            "from": "EP" 
+        },
+        {
+            "toward": [
+                "EP",
+                "OW",
+                "STARBUCKS",
+                "WH",
+                "HU",
+                "SAMPLE" 
+            ],
+            "from": "UB" 
+        } 
+    ]
+}

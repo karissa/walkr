@@ -1,0 +1,68 @@
+8
+
+dir
+1133
+https://www.cs.indiana.edu/svn/c343_fall2010/We_get_this_stuff/Walkr/images/yellow
+https://www.cs.indiana.edu/svn/c343_fall2010
+
+
+
+2010-12-13T18:16:43.152936Z
+1112
+krmckelv
+
+
+svn:special svn:externals svn:needs-lock
+
+node_selected.png
+file
+
+
+
+
+2010-12-13T14:21:09.000000Z
+a38bd2472b38057bda733431a2bc80b6
+2010-12-13T18:16:43.152936Z
+1112
+krmckelv
+has-props
+
+node_unselected.png
+file
+
+
+
+
+2010-12-10T00:35:35.000000Z
+f68ce3d7d37cea3aac1486c9c155de94
+2010-12-13T18:16:43.152936Z
+1112
+krmckelv
+has-props
+
+left_arrow.png
+file
+
+
+
+
+2010-12-13T16:39:44.000000Z
+9ac62da42876e044f0deefe38b251b23
+2010-12-13T18:16:43.152936Z
+1112
+krmckelv
+has-props
+
+right_arrow.png
+file
+
+
+
+
+2010-12-13T16:39:40.000000Z
+fb0545eb391f4ed8799fa3b0538ce92e
+2010-12-13T18:16:43.152936Z
+1112
+krmckelv
+has-props
+

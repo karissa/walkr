@@ -1,0 +1,68 @@
+8
+
+dir
+1133
+https://www.cs.indiana.edu/svn/c343_fall2010/We_get_this_stuff/Walkr/images/green
+https://www.cs.indiana.edu/svn/c343_fall2010
+
+
+
+2010-12-13T18:16:43.152936Z
+1112
+krmckelv
+
+
+svn:special svn:externals svn:needs-lock
+
+node_selected.png
+file
+
+
+
+
+2010-12-13T14:21:09.000000Z
+a38bd2472b38057bda733431a2bc80b6
+2010-12-13T18:16:43.152936Z
+1112
+krmckelv
+has-props
+
+node_unselected.png
+file
+
+
+
+
+2010-12-10T00:35:35.000000Z
+f68ce3d7d37cea3aac1486c9c155de94
+2010-12-13T18:16:43.152936Z
+1112
+krmckelv
+has-props
+
+left_arrow.png
+file
+
+
+
+
+2010-12-13T16:26:14.000000Z
+45c927bac40a0f4f10dbabcedea06699
+2010-12-13T18:16:43.152936Z
+1112
+krmckelv
+has-props
+
+right_arrow.png
+file
+
+
+
+
+2010-12-13T16:26:12.000000Z
+ef66e8b194eb413d98299d681a44257e
+2010-12-13T18:16:43.152936Z
+1112
+krmckelv
+has-props
+
